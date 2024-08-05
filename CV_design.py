@@ -18,15 +18,9 @@ import numpy as np
 import matplotlib.pyplot as plt
 import matplotlib.ticker as mtick
 from matplotlib import cm
-import pickle
-import os
 from scipy.linalg import block_diag
 import copy
 import pandas as pd
-
-path = r'D:/anaconda2021/directorySpyder/academic/second paper'
-
-os.chdir(path)
 
 # In[] model (the arguments related to C are not used)
 
