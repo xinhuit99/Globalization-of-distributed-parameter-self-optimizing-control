@@ -6,4 +6,4 @@ Due the inherent infinite-dimensional feature, their operation optimization is d
 1. Code for local controlled variables (CVs).
 2. Code for global CVs.
 3. Performance testing.
-4. data used in the related study paper
+4. Data used in the related study paper
